@@ -699,6 +699,18 @@
       "img_url": "./sushi/ebi.png",
       "price": 15,
       "created_at": "2018-07-27T18:53:16.516Z"
+    },
+    {
+      "name": "Pad See",
+      "price": "29",
+      "img_url": "imageURL",
+      "id": 101
+    },
+    {
+      "name": "Test Sushi",
+      "price": "90",
+      "img_url": "https://i.etsystatic.com/11465033/r/il/0a9f76/2660426242/il_794xN.2660426242_fxfa.jpg",
+      "id": 102
     }
   ]
 }
